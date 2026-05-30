@@ -1,2 +1,0 @@
-# GradProject
-My Graduation Project
